@@ -5,8 +5,8 @@
  <h3>Programming and Markup Languages</h3>
 
   <p>
-      <a href=""><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-        <a href=""><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aryanclark055+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3Aryanclark055+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   </p>
 
 
