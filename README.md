@@ -1,15 +1,6 @@
-# Ryan Clark
+# Ryan Clark (He/Him/His)
 
-``Third Year Physics and Mathematics Student at Wheaton College, MA``
-
- <h3>Programming and Markup Languages</h3>
-
-  <p>
-   <a href="https://github.com/search?q=user%3Aryanclark055+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3Aryanclark055+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-  </p>
-
-
+``Third Year Physics B.S. Student at Wheaton College, MA``
 
 <!--
 **ryanclark055/ryanclark055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
