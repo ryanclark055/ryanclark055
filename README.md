@@ -1,7 +1,7 @@
 # Ryan Clark 
 (He/Him/His)
 
-Third Year Physics B.S. Student at Wheaton College, MA
+Third Year Physics Student at Wheaton College, MA
 
 <!--
 **ryanclark055/ryanclark055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
